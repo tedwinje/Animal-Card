@@ -1,0 +1,38 @@
+ .container { 
+  border-style:none inset inset none;
+   border-width:5px;
+    width:318px;
+  	}
+
+.pagebord {border:0.5px solid lightgrey;
+   padding:0.5em;
+   width:300px;
+   background-color:tan;
+	}
+
+.cheetah {border:0.5px solid lightgrey;
+  font-family:arial;
+  font-size:12px;
+  padding:1em;
+	}
+
+#sect {font: small-caps bold 10px cursive;
+  color:brown;
+	}
+
+#Facts {font-style:italic;
+  font-weight:bold;
+  color:orange;
+	}
+strong {color:black;}
+li span {font-weight:bold;}
+   
+img {width:300px;
+margin-bottom:0.5em;
+	}
+
+ul {list-style:none;
+padding:0;
+	}
+
+ 
